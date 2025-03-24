@@ -1,4 +1,4 @@
-# E-Commerce-website
+#Shopverse an E-Commerce-website
 A e-commerce website inspired by Amazon and flipkart.
 
 /---------/
